@@ -2,7 +2,7 @@
 
 ## Author
 
-[Chepkirui Betty](https://github.com/chepkiruibetty)
+[]()
 
 # Description
 
@@ -34,7 +34,7 @@ To get the code..
 1. Cloning the repository:
 
 ```bash
-https://github.com/chepkiruibetty/pitch
+
 ```
 
 2. Move to the folder and install requirements
@@ -70,12 +70,12 @@ chepkiruibetty@gmail.com
 
 ## Live Link To Project
 
-https://instantpitch.herokuapp.com/
+
 
 
 ### codebeat
 
-[![codebeat badge](https://codebeat.co/badges/9f12d78d-24b2-47bd-9967-0e909c237bd7)](https://codebeat.co/projects/github-com-chepkiruibetty-pitch-master)
+[![codebeat badge](https://codebeat.co/badges/9f12d78d-24b2-47bd-9967-0e909c237bd7)]()
 
 ## License
  
